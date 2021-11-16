@@ -1,9 +1,5 @@
 # statsHelper
 
-Mu Online reset tool.
-
-## Description
-
 Depending on your class, stats given upon reset and number of stats it calculates your total free stat points and distributes them on my formula
 
 Please keep in mind that it's nowhere close to being finished.
@@ -17,6 +13,7 @@ Please keep in mind that it's nowhere close to being finished.
 
 ### Executing program
 
+![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-7bb57c5e24fc.gif)
 
 ## Version History
 
