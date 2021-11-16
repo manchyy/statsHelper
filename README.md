@@ -13,7 +13,7 @@ Please keep in mind that it's nowhere close to being finished.
 
 ### Executing program
 
-![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-7bb57c5e24fc.gif)
+![](https://im2.ezgif.com/tmp/ezgif-2-7bb57c5e24fc.gif)
 
 ## Version History
 
