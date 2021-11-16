@@ -9,11 +9,11 @@ Please keep in mind that it's nowhere close to being finished.
 ### Installing
 
 * Download the latest AHK version
-* Run the script
+* Run the statsHelper.ahk file
 
 ### Executing program
 
-![](https://im2.ezgif.com/tmp/ezgif-2-7bb57c5e24fc.gif)
+![demo](demo.gif)
 
 ## Version History
 
