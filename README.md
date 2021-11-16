@@ -9,9 +9,9 @@ Please keep in mind that it's nowhere close to being finished.
 ### Installing
 
 * Download the latest AHK version
-* Run the statsHelper.ahk file
+* Run the statsHelper.ahk
 
-### Executing program
+### Executing the script
 
 ![demo](demo.gif)
 
